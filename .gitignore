@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/.vscode
+.env
+in.txt
+input.txt
+makefile
